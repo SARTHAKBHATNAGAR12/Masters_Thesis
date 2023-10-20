@@ -10,11 +10,17 @@ Traditional machine learning approaches are a broad term covering various method
 
 One of the remarkable aspects of autoencoders is their ability to learn efficient data representations without requiring explicit labelling. These characteristics have gained significant attention in the big data era. By utilizing the potential of deep neural networks, autoencoders can uncover hidden patterns and relationships within the data, which can be the basis of improved decision-making in domain-specific tasks such as sentiment analysis and anomaly detection. Autoencoders have been employed not just for the purpose of reducing dimensionality and representing data, but they have also gained popularity as generative models. Variational Autoencoders (Pinheiro Cinelli et al., 2021) and Generative Adversarial Networks (Goodfellow et al., 2014) are the techniques that work on the principle of autoencoder architectures and elevate the power and creativity of AI to a new level. These generative models have been employed in many domain specific platforms such as image synthesis, drug discovery, etc. due to their ability to learn and acquire knowledge from the underlying probability distribution of data. The primary objective of this thesis is to examine the multifaceted domain of deep learning, with a specific focus on autoencoders. The exploration commences with an examination of the theoretical concepts and basic frameworks of autoencoders, in order to establish a robust groundwork for our subsequent inquiry. We undertake a critical experiment on the stack-layered architecture of autoencoders utilizing Bidirectional-LSTMs and Bidirectional-GRUs. The multiple hidden layers in autoencoders allow us to grasp the complex features of the input data and contribute to improving the outcomes (Bengio, 2009). However, some challenges are encountered due to multiple hidden layers while training the data, increasing training time and model complexity. This experimental study aims to examine the effect of the stack-layered architecture of autoencoder in text embedding using the Bidirectional LSTMs and Bidirectional GRUs as a combination.
 
-Following that, we have mentioned the literature study of research papers in the context to the topic. In Section 3, set the base for suitable methodology. Then Section 4 discusses design requirements and specifications, and Section 5 discusses how the model was implemented. Subsequently, the Result and evaluation obtained related to the model are covered, and in the end, the Conclusion and suggestions for future work is given.
+Following that, set the base for suitable methodology. Then Section 4 discusses design requirements and specifications, and Section 5 discusses how the model was implemented. Subsequently, the Result and evaluation obtained related to the model are covered, and in the end, the Conclusion and suggestions for future work is given.
+
+## Project Structure
+- **/data**: Contains the data used for analysis. You can access the dataset at [https://www.nltk.org/book/ch02.html].
+- **/code**: Includes the code and scripts used for data analysis and modeling.
+- **/results**: Presents the results of the research, including charts, graphs, and findings.
+- **/documents**: Houses additional documents, such as the full thesis document and presentation slides.
 
 
 ## Acknowledgments
-I would like to express my gratitude to my family members, friends, and supervisor[Dr. Giovani Estrada].
+I would like to express my gratitude to my family members, friends, and supervisor [Dr. Giovani Estrada].
 
 ## License
 This project is licensed under the  MIT License - see the [LICENSE](LICENSE) file for details.
