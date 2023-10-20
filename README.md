@@ -29,6 +29,9 @@ In this study, comprehensive data processing was performed to prepare the Brown 
 
 ![Fig.1: Top 30 common words in the Brown corpora.](https://github.com/SARTHAKBHATNAGAR12/Masters_Thesis/blob/main/dist_sentences.png?raw=true)
 
+POS tagging or Part-of-Speech tagging is a crucial step of data preprocessing in the domain of Natural Language Processing, which involves assigning a grammatical category to each word in a given sentence. The words in the Brown corpus are analyzed and assigned POS tags to each word. The frequency distribution of resulting POS tags is shown in Fig. 2, which provides insights into the text structure.
+
+![Fig.2: Top 30 POS Tag Distribution.](https://github.com/SARTHAKBHATNAGAR12/Masters_Thesis/blob/main/POS_graph.png?raw=true)
 
 ## Installation
 Utilizing the advantages of readily accessible library modules, Python programming language is employed for the completion of this task, specifically version 3.6.9. Both the local workstation and Google web services are used for the execution of tasks. The local workstation with the hardware configuration of 64-bit Windows 11 OS, 11th Gen Intel(R) Core(TM) i5-11300H @ 3.10GHz Processor and 16GB of RAM was initially used. The first model training was done on the local workstation, but as we started training the model, it required massive amount of training time. Because of this, we switched to Google Clab Pro services. The Google Colab Platform is based on IaaS, which utilizes the Google Compute engine for computing operations. It offers a platform to write and execute code collaboratively and has a Jupyter Notebook interface specially designed for tasks like data analysis, machine learning, and deep learning. The High-end CPU, 25GB of RAM, and 100 computing units were configured to execute the task.
