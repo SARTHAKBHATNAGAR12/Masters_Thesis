@@ -12,3 +12,10 @@ One of the remarkable aspects of autoencoders is their ability to learn efficien
 
 Following that, we have mentioned the literature study of research papers in the context to the topic. In Section 3, set the base for suitable methodology. Then Section 4 discusses design requirements and specifications, and Section 5 discusses how the model was implemented. Subsequently, the Result and evaluation obtained related to the model are covered, and in the end, the Conclusion and suggestions for future work is given.
 
+
+## Acknowledgments
+I would like to express my gratitude to my family members, friends, and supervisor[Dr. Giovani Estrada].
+
+## License
+This project is licensed under the  MIT License - see the [LICENSE](LICENSE) file for details.
+
