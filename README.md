@@ -33,6 +33,18 @@ POS tagging or Part-of-Speech tagging is a crucial step of data preprocessing in
 
 ![Fig.2: Top 30 POS Tag Distribution.](https://github.com/SARTHAKBHATNAGAR12/Masters_Thesis/blob/main/POS_graph.png?raw=true)
 
+A word cloud is generated to visually understand the frequency of the most common words. The frequency influences the size and color of the words; the most common words will be more significant in size. Furthermore, the maximum length of a sentence and the number of sentences from the corpus are calculated and analyzed. Thus, a resulting distribution graph for sentence lengths was plotted, which helps to understand the variability and structure of sentences within the corpus.
+
+![Fig.3: Sentence length distribution graph in the Brown corpus.](https://github.com/SARTHAKBHATNAGAR12/Masters_Thesis/blob/main/POS_graph.png?raw=true)
+
+
+
+
+
+
+![Fig.4: Wordcloud.](https://github.com/SARTHAKBHATNAGAR12/Masters_Thesis/blob/main/POS_graph.png?raw=true)
+This word cloud represents the frequency of words within the Brown Corpus, it is a comprehensive collection of American English texts comprised of various genres and published between 1961 and 1972. In this visualization, larger and bolder words indicate higher frequency.
+
 ## Installation
 Utilizing the advantages of readily accessible library modules, Python programming language is employed for the completion of this task, specifically version 3.6.9. Both the local workstation and Google web services are used for the execution of tasks. The local workstation with the hardware configuration of 64-bit Windows 11 OS, 11th Gen Intel(R) Core(TM) i5-11300H @ 3.10GHz Processor and 16GB of RAM was initially used. The first model training was done on the local workstation, but as we started training the model, it required massive amount of training time. Because of this, we switched to Google Clab Pro services. The Google Colab Platform is based on IaaS, which utilizes the Google Compute engine for computing operations. It offers a platform to write and execute code collaboratively and has a Jupyter Notebook interface specially designed for tasks like data analysis, machine learning, and deep learning. The High-end CPU, 25GB of RAM, and 100 computing units were configured to execute the task.
 
