@@ -40,6 +40,7 @@ A word cloud is generated to visually understand the frequency of the most commo
 In the context of text embedding, the vocabulary size refers to the number of unique words in the corpus. Furthermore, the data is preprocessed for tokenization and padding. Tokenization is the process of breaking down text or a sequence of characters into smaller units known as tokens. They are units of text that are used as input for natural processing tasks. The nltk tokenizer class (version 3.8) from Keras Library was employed to tokenize the sentences into sequences of integers, padding was employed to ensure tokenized sequence should be used in fixed length. The resulting padded sequences are the basis for text embedding and modeling processes.
 
 ![Fig.4: Wordcloud.](https://github.com/SARTHAKBHATNAGAR12/Masters_Thesis/blob/main/download.png?raw=true)
+
 This word cloud represents the frequency of words within the Brown Corpus, it is a comprehensive collection of American English texts comprised of various genres and published between 1961 and 1972. In this visualization, larger and bolder words indicate higher frequency.
 
 ## Installation
