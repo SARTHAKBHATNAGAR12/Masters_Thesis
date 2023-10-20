@@ -19,6 +19,11 @@ Following that, set the base for suitable methodology. Then Section 4 discusses 
 - **/documents**: Houses additional documents, such as the full thesis document and presentation slides.
 
 
+## Contact Information
+Feel free to contact me with any questions or feedback regarding this research:
+- Email: [s.bhatngar92@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/sarthak-bhatnagar1/]
+
 ## Acknowledgments
 I would like to express my gratitude to my family members, friends, and supervisor [Dr. Giovani Estrada].
 
