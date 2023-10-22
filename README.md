@@ -65,14 +65,15 @@ To begin, the Brown Corpus was downloaded using the NLTK library. The corpus con
 
 | Hyperparameters    | Description | Value |
 | ------- | --- | ----------  |
-| Hidden Layers    | 30  | Engineer    |
-| Neural Layers   | 25  | Designer    |
-| Embedding_Dimension     | 35  | Developer   |
-
-
-
-
-
+| Hidden Layers    | Intermediate layers between the input layer and the output layer of a neural network.  | (1,2,3,4)    |
+| Neural Layers   | All layers within a neural network.  | (1-8)  |
+| Embedding_Dimension   | The embedding dimensions in encoder and decoder.  | 128, 256    |
+| Loss_Function     | A measure of the difference between the predicted values and actual target values.  | Sparse categorical crossentropy   |
+| Optimizer     | A method for minimizing the loss function.  | Adam   |
+| Activation     | To capture complex relationships between input features and model predictions.  | SoftMax, ReLu   |
+| Early_Stopping     | It Stops the training process once the model's performance starts to degrade.  | 1  |
+| Workers     | Speed up data processing by performing tasks concurrently.  | 16 |
+| Epochs     | Number of times the entire training dataset will be used to train the model.  | 15  |
 
 ## References
 - Simon, P. (2013) Too big to ignore: The business case for big data. Available at: http://ci.nii.ac.jp/ncid/BB14252363.
