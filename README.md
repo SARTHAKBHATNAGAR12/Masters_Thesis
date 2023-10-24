@@ -92,31 +92,64 @@ In the result and evaluation section, we have shown the trade-off between comple
 
 ## (a).	One-Bidirectional LSTM In Stack-Layered Autoencoder.
 
-![Fig.6: Loss Graph for One-Bidirectional LSTM in Stack-Layered Autoencoder.](https://github.com/SARTHAKBHATNAGAR12/Masters_Thesis/blob/main/Model_outputs/accuracy.png?raw=true)
+![Fig.6: Accuracy Graph for One-Bidirectional LSTM in Stack-Layered Autoencoder.](https://github.com/SARTHAKBHATNAGAR12/Masters_Thesis/blob/main/Model_outputs/accuracy.png?raw=true)
 
 
-![Fig.7: Accuracy Graph for One-Bidirectional LSTM in Stack-Layered Autoencoder.](https://github.com/SARTHAKBHATNAGAR12/Masters_Thesis/blob/main/Model_outputs/loss.png?raw=true)
+![Fig.7: Loss Graph for One-Bidirectional LSTM in Stack-Layered Autoencoder.](https://github.com/SARTHAKBHATNAGAR12/Masters_Thesis/blob/main/Model_outputs/loss.png?raw=true)
 
 
 ## (b).	Two-Bidirectional LSTM In Stack-Layered Autoencoder.
 
-![Fig.8: Loss Graph for Two-Bidirectional LSTM in Stack-Layered Autoencoder.](https://github.com/SARTHAKBHATNAGAR12/Masters_Thesis/blob/main/Model_outputs/acc2.png?raw=true)
+![Fig.8: Accuracy Graph for Two-Bidirectional LSTM in Stack-Layered Autoencoder.](https://github.com/SARTHAKBHATNAGAR12/Masters_Thesis/blob/main/Model_outputs/acc2.png?raw=true)
 
-![Fig.9: Accuracy Graph for Two-Bidirectional LSTM in Stack-Layered Autoencoder..](https://github.com/SARTHAKBHATNAGAR12/Masters_Thesis/blob/main/Model_outputs/loss2.png?raw=true)
+![Fig.9: Loss Graph for Two-Bidirectional LSTM in Stack-Layered Autoencoder..](https://github.com/SARTHAKBHATNAGAR12/Masters_Thesis/blob/main/Model_outputs/loss2.png?raw=true)
 
 
 ## (c).	Three-Bidirectional LSTM In Stack-Layered Autoencoder.
 
-![Fig.10: Loss Graph for Three-Bidirectional LSTM in Stack-Layered Autoencoder.](https://github.com/SARTHAKBHATNAGAR12/Masters_Thesis/blob/main/Model_outputs/accuracy3.png?raw=true)
+![Fig.10: Accuracy Graph for Three-Bidirectional LSTM in Stack-Layered Autoencoder.](https://github.com/SARTHAKBHATNAGAR12/Masters_Thesis/blob/main/Model_outputs/accuracy3.png?raw=true)
 
-![Fig.11: Accuracy Graph for Three-Bidirectional LSTM in Stack-Layered Autoencoder.](https://github.com/SARTHAKBHATNAGAR12/Masters_Thesis/blob/main/Model_outputs/loss3.png?raw=true)
+![Fig.11: Loss Graph for Three-Bidirectional LSTM in Stack-Layered Autoencoder.](https://github.com/SARTHAKBHATNAGAR12/Masters_Thesis/blob/main/Model_outputs/loss3.png?raw=true)
 
 
 ## (d).	Four-Bidirectional LSTM In Stack-Layered Autoencoder.
 
-![Fig.12: Loss Graph for Four-Bidirectional LSTM in Stack-Layered Autoencoder.](https://github.com/SARTHAKBHATNAGAR12/Masters_Thesis/blob/main/Model_outputs/accuracy4.png?raw=true)
+![Fig.12: Accuracy Graph for Four-Bidirectional LSTM in Stack-Layered Autoencoder.](https://github.com/SARTHAKBHATNAGAR12/Masters_Thesis/blob/main/Model_outputs/accuracy4.png?raw=true)
 
-![Fig.13: Accuracy Graph for Four-Bidirectional LSTM in Stack-Layered Autoencoder.](https://github.com/SARTHAKBHATNAGAR12/Masters_Thesis/blob/main/Model_outputs/Loss4.png?raw=true)
+![Fig.13: Loss Graph for Four-Bidirectional LSTM in Stack-Layered Autoencoder.](https://github.com/SARTHAKBHATNAGAR12/Masters_Thesis/blob/main/Model_outputs/Loss4.png?raw=true)
+
+## Evaluation for GRU Models.
+
+## (a).	One-Bidirectional GRU In Stack-Layered Autoencoder.
+
+![Fig.14: Accuracy Graph for One-Bidirectional GRU in Stack-Layered Autoencoder.](https://github.com/SARTHAKBHATNAGAR12/Masters_Thesis/blob/main/Model_outputs/accuracy.png?raw=true)
+
+
+![Fig.15: Loss Graph for One-Bidirectional GRU in Stack-Layered Autoencoder.](https://github.com/SARTHAKBHATNAGAR12/Masters_Thesis/blob/main/Model_outputs/loss.png?raw=true)
+
+
+## (b).	Two-Bidirectional GRU In Stack-Layered Autoencoder.
+
+![Fig.16: Accuracy Graph for Two-Bidirectional GRU in Stack-Layered Autoencoder.](https://github.com/SARTHAKBHATNAGAR12/Masters_Thesis/blob/main/Model_outputs/accuracy.png?raw=true)
+
+
+![Fig.17: Loss Graph for Two-Bidirectional GRU in Stack-Layered Autoencoder.](https://github.com/SARTHAKBHATNAGAR12/Masters_Thesis/blob/main/Model_outputs/loss.png?raw=true)
+
+
+## (c).	Three-Bidirectional GRU In Stack-Layered Autoencoder.
+
+![Fig.18: Accuracy Graph for Three-Bidirectional GRU in Stack-Layered Autoencoder.](https://github.com/SARTHAKBHATNAGAR12/Masters_Thesis/blob/main/Model_outputs/accuracy.png?raw=true)
+
+
+![Fig.19: Loss Graph for Three-Bidirectional GRU in Stack-Layered Autoencoder.](https://github.com/SARTHAKBHATNAGAR12/Masters_Thesis/blob/main/Model_outputs/loss.png?raw=true)
+
+
+## (d).	Four-Bidirectional GRU In Stack-Layered Autoencoder.
+
+![Fig.20: Accuracy Graph for Four-Bidirectional  in Stack-Layered Autoencoder.](https://github.com/SARTHAKBHATNAGAR12/Masters_Thesis/blob/main/Model_outputs/accuracy.png?raw=true)
+
+
+![Fig.21: Loss Graph for Four-Bidirectional GRU in Stack-Layered Autoencoder.](https://github.com/SARTHAKBHATNAGAR12/Masters_Thesis/blob/main/Model_outputs/loss.png?raw=true)
 
 
 ## References
