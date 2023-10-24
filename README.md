@@ -92,18 +92,31 @@ In the result and evaluation section, we have shown the trade-off between comple
 
 ## (a).	One-Bidirectional LSTM In Stack-Layered Autoencoder.
 
+![Fig.5: Loss Graph for One-Bidirectional LSTM in Stack-Layered Autoencoder.](https://github.com/SARTHAKBHATNAGAR12/Masters_Thesis/blob/main/architecture.png?raw=true)
+
+
+![Fig.5: Accuracy Graph for One-Bidirectional LSTM in Stack-Layered Autoencoder.](https://github.com/SARTHAKBHATNAGAR12/Masters_Thesis/blob/main/architecture.png?raw=true)
 
 
 ## (b).	Two-Bidirectional LSTM In Stack-Layered Autoencoder.
 
+![Fig.5: Loss Graph for Two-Bidirectional LSTM in Stack-Layered Autoencoder.](https://github.com/SARTHAKBHATNAGAR12/Masters_Thesis/blob/main/architecture.png?raw=true)
+
+![Fig.5: Accuracy Graph for Two-Bidirectional LSTM in Stack-Layered Autoencoder..](https://github.com/SARTHAKBHATNAGAR12/Masters_Thesis/blob/main/architecture.png?raw=true)
 
 
 ## (c).	Three-Bidirectional LSTM In Stack-Layered Autoencoder.
 
+![Fig.5: Loss Graph for Three-Bidirectional LSTM in Stack-Layered Autoencoder.](https://github.com/SARTHAKBHATNAGAR12/Masters_Thesis/blob/main/architecture.png?raw=true)
+
+![Fig.5: Accuracy Graph for Three-Bidirectional LSTM in Stack-Layered Autoencoder.](https://github.com/SARTHAKBHATNAGAR12/Masters_Thesis/blob/main/architecture.png?raw=true)
 
 
 ## (d).	Four-Bidirectional LSTM In Stack-Layered Autoencoder.
 
+![Fig.5: Loss Graph for Four-Bidirectional LSTM in Stack-Layered Autoencoder.](https://github.com/SARTHAKBHATNAGAR12/Masters_Thesis/blob/main/architecture.png?raw=true)
+
+![Fig.5: Accuracy Graph for Four-Bidirectional LSTM in Stack-Layered Autoencoder.](https://github.com/SARTHAKBHATNAGAR12/Masters_Thesis/blob/main/architecture.png?raw=true)
 
 
 ## References
