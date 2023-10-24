@@ -85,6 +85,26 @@ The conclusive output from the dense layer signifies the regenerated sequences f
 ## Implementation of Stack-Layered Autoencoders using Bidirectional GRUs
 The same architecture and implementation are utilized for stack-layered autoencoders using bidirectional GRUs. However, GRU has a simpler architecture as compared to LSTMs Which require fewer parameters and can lead to efficient memory utilization. Moreover, GRUs address the vanishing gradient problem more efficiently than LSTMs and have faster convergence rates due to simpler architecture and gating mechanisms.
 
+## Evaluation
+
+In the result and evaluation section, we have shown the trade-off between complexity and accuracy in stacked autoencoder architecture. A number of experiments are proposed with incremental layers from one to four and evaluate every single bidirectional LSTM and bidirectional GRU layer to show their efficacy in the model.
+
+
+## (a).	One-Bidirectional LSTM In Stack-Layered Autoencoder.
+
+
+
+## (b).	Two-Bidirectional LSTM In Stack-Layered Autoencoder.
+
+
+
+## (c).	Three-Bidirectional LSTM In Stack-Layered Autoencoder.
+
+
+
+## (d).	Four-Bidirectional LSTM In Stack-Layered Autoencoder.
+
+
 
 ## References
 - Simon, P. (2013) Too big to ignore: The business case for big data. Available at: http://ci.nii.ac.jp/ncid/BB14252363.
