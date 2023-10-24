@@ -151,6 +151,27 @@ In the result and evaluation section, we have shown the trade-off between comple
 
 ![Fig.21: Loss Graph for Four-Bidirectional GRU in Stack-Layered Autoencoder.](https://github.com/SARTHAKBHATNAGAR12/Masters_Thesis/blob/main/Model_outputs/lossg4.png?raw=true)
 
+## Discussion
+
+In the bidirectional LSTM architecture of the stacked autoencoders, the models with increasing layers consistently decrease the loss function and improve accuracy. With Two-BiLSTM and Three-BiLSTM models demonstrate enhancing accuracy and reducing loss. However, the Four Bi-LSTM model encounters converging issues. On the other hand, Bidirectional GRUs architecture performance benefited from the increased number of layers, resulting in improved accuracy, decreased training loss, and efficient training time. Moreover, it can be noted that Four Bi-GRU has outperformed all other models with its performance in accuracy in a reasonable amount of time.
+
+
+| Layers    | Loss | Accuracy | Training Time |  Figure Reference |
+| ------- | --- | ----------  | -------- | --------- |
+| Bi-LSTM    | 2.6530  | 70.25   | 3hrs 7mins | Fig. 6 and Fig. 7 |
+| Two_Bi-LSTM   | 1.2044  | 78.33  | 6hrs 1mins | Fig. 8 and Fig. 9 |
+| Three_Bi-LSTM   | 1.2277 | 78.18    | 7hrs 11mins | Fig. 10 and Fig. 11 |
+| Four_Bi-LSTM     | nan  | 68.81   | 2hrs 36mins | Fig. 12 and Fig. 13 |
+
+
+
+| Layers    | Loss | Accuracy | Training Time |  Figure Reference |
+| ------- | --- | ----------  | -------- | --------- |
+| Bi-GRU    | 2.7098  | 68.81   | 1hrs 56mins | Fig. 14 and Fig. 15 |
+| Two_Bi-GRU   | 1.1583  | 78.58  | 6hrs 20mins | Fig. 16 and Fig. 17 |
+| Three_Bi-GRU   | 1.1466 | 79.74    | 7hrs 17mins | Fig. 18 and Fig. 19 |
+| Four_Bi-GRU     | 1.0873  | 79.75   | 6hrs 29mins | Fig. 20 and Fig. 21 |
+
 
 ## References
 - Simon, P. (2013) Too big to ignore: The business case for big data. Available at: http://ci.nii.ac.jp/ncid/BB14252363.
