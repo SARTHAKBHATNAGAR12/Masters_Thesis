@@ -95,7 +95,6 @@ In the result and evaluation section, we have shown the trade-off between comple
 ![Fig.6: Accuracy Graph for One-Bidirectional LSTM in Stack-Layered Autoencoder.](https://github.com/SARTHAKBHATNAGAR12/Masters_Thesis/blob/main/Model_outputs/accuracy.png?raw=true)
 
 
-
 ![Fig.7: Loss Graph for One-Bidirectional LSTM in Stack-Layered Autoencoder.](https://github.com/SARTHAKBHATNAGAR12/Masters_Thesis/blob/main/Model_outputs/loss.png?raw=true)
 
 
